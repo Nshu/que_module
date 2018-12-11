@@ -1,0 +1,12 @@
+//
+// Created by abata on 2018/12/11.
+//
+
+#ifndef QMK_UNIT_TEST_QUE_MODULE_QMK_ADAPTER_TEMPLATE_H
+#define QMK_UNIT_TEST_QUE_MODULE_QMK_ADAPTER_TEMPLATE_H
+
+#define QUE_SIZE
+#define NULL_QUE ()
+typedef  data_t;
+
+#endif //QMK_UNIT_TEST_QUE_MODULE_QMK_ADAPTER_TEMPLATE_H
